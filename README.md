@@ -23,11 +23,11 @@ I am an undergraduate student of psychology with a penchant for Linux and System
 
 ## 📢 What's new on the Site 
 
-![The Hum of Doing](https://noumenalnotions.space/blogs/the_hum_of_doing/)
-![The AI Hype](https://noumenalnotions.space/blogs/ai_hype/)
-![Old School Socializing](https://noumenalnotions.space/blogs/old_school_socializing/)
+- ![The Hum of Doing](https://noumenalnotions.space/blogs/the_hum_of_doing/)<br />
+- ![The AI Hype](https://noumenalnotions.space/blogs/ai_hype/)<br />
+- ![Old School Socializing](https://noumenalnotions.space/blogs/old_school_socializing/)<br />
 
-# 
+---
 
 ## 📊 Stats
 
