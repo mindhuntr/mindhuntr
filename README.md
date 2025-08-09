@@ -23,15 +23,15 @@ I am an undergraduate student of psychology with a penchant for Linux and System
 
 ## 📢 What's new on the Site 
 
-- 📖 ![The Hum of Doing](https://noumenalnotions.space/blogs/the_hum_of_doing/)
-- 📖 ![The AI Hype](https://noumenalnotions.space/blogs/ai_hype/)
-- 📖 ![Old School Socializing](https://noumenalnotions.space/blogs/old_school_socializing/) 
-- 📖 ![Should You Use the Commandline](https://noumenalnotions.space/blogs/should_you_use_the_commandline/) 
-- 📖 ![On the Necessity of Mediation](https://noumenalnotions.space/essays/on_the_necessity_of_mediation/) 
+- 📖 [The Hum of Doing](https://noumenalnotions.space/blogs/the_hum_of_doing/)
+- 📖 [The AI Hype](https://noumenalnotions.space/blogs/ai_hype/)
+- 📖 [Old School Socializing](https://noumenalnotions.space/blogs/old_school_socializing/) 
+- 📖 [Should You Use the Commandline](https://noumenalnotions.space/blogs/should_you_use_the_commandline/) 
+- 📖 [On the Necessity of Mediation](https://noumenalnotions.space/essays/on_the_necessity_of_mediation/) 
 
 ## Foray into the UNIX World 
 
-I chanced upon Linux 4 years ago when one of my friends introduced me to Capture the Flags (CTFs). Although I was initially disenchanted by looking at someone navigate a system using the command line, I quickly understood how superior it was compared to a GUI. I started with a few Reverse Engineering challenges in ![w3challs](https://w3challs.com/profile/mindhunter) where I learned Assembly, C Programming and a lot of bashing scripting. Since then I have picked up a variety of programming languages and tools that have helped me foster an environment devoid of the mindlessness in the modern internet. I also actively participate in the ![tildeverse](https://tildeverse.org/), a collection of communities centered around UNIX based operating systems. They provide shell account services, web hosting and also provisions for alternative protocols like gemini and gopher. 
+I chanced upon Linux 4 years ago when one of my friends introduced me to Capture the Flags (CTFs). Although I was initially disenchanted by looking at someone navigate a system using the command line, I quickly understood how superior it was compared to a GUI. I started with a few Reverse Engineering challenges in [w3challs](https://w3challs.com/profile/mindhunter) where I learned Assembly, C Programming and a lot of bashing scripting. Since then I have picked up a variety of programming languages and tools that have helped me foster an environment devoid of the mindlessness in the modern internet. I also actively participate in the [tildeverse](https://tildeverse.org/), a collection of communities centered around UNIX based operating systems. They provide shell account services, web hosting and also provisions for alternative protocols like gemini and gopher. 
 
 
 ---
