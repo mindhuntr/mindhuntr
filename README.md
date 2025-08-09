@@ -27,24 +27,25 @@ I am an undergraduate student of psychology with a penchant for Linux and System
   <tr>
     <td>
       <a href="https://noumenalnotions.space/blogs/the_hum_of_doing/">
-        <img src="https://noumenalnotions.space/favicon.ico" alt="Post 1" width="250"><br>
+        <img src="https://i.pinimg.com/1200x/36/91/bc/3691bc5ac6500212ab184accf914d595.jpg" alt="Post 1" width="250"><br>
         <strong>The Hum of Doing</strong>
       </a>
     </td>
     <td>
       <a href="https://noumenalnotions.space/blogs/ai_hype/">
-        <img src="https://noumenalnotions.space/favicon.ico" alt="Post 2" width="250"><br>
+        <img src="https://i.pinimg.com/736x/b8/41/8c/b8418c3307d7eae5061c41cf93e59e1c.jpg" alt="Post 2" width="250"><br>
         <strong>The AI Hype</strong>
       </a>
     </td>
     <td>
       <a href="https://noumenalnotions.space/blogs/old_school_socializing/">
-        <img src="https://noumenalnotions.space/favicon.ico" alt="Post 3" width="250"><br>
+        <img src="https://i.pinimg.com/736x/80/99/9f/80999fe8b5dddef921e58c4484bcc9e1.jpg" alt="Post 3" width="250"><br>
         <strong>Old School Socializing</strong>
       </a>
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📊 Stats
