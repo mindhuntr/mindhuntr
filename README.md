@@ -26,6 +26,9 @@ I am an undergraduate student of psychology with a penchant for Linux and System
 - 📖 ![The Hum of Doing](https://noumenalnotions.space/blogs/the_hum_of_doing/)
 - 📖 ![The AI Hype](https://noumenalnotions.space/blogs/ai_hype/)
 - 📖 ![Old School Socializing](https://noumenalnotions.space/blogs/old_school_socializing/) 
+- 📖 ![Should You Use the Commandline](https://noumenalnotions.space/blogs/should_you_use_the_commandline/) 
+- 📖 ![On the Necessity of Mediation](https://noumenalnotions.space/essays/on_the_necessity_of_mediation/) 
+
 
 ---
 
