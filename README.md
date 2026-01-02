@@ -37,7 +37,3 @@ I chanced upon Linux 4 years ago when one of my friends introduced me to Capture
 
 
 ---
-
-## 📊 Stats
-
-![mindhuntr's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindhuntr&show_icons=true&theme=catppuccin_mocha)
