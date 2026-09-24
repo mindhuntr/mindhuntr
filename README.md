@@ -17,19 +17,19 @@ I am an undergraduate student of psychology with a penchant for Linux and System
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="Red Hat" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" />
-             
+<img align="left" alt="Flutter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Flutter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <br />
 <br />
 <br />
 
 ## 📢 What's new on the Site 
 
+- 📖 [The Visitor](https://noumenalnotions.space/fiction/the_visitor/)
 - 📖 [The Gordian Knot](https://noumenalnotions.space/essays/the_gordian_knot/)
 - 📖 [The Hum of Doing](https://noumenalnotions.space/blogs/the_hum_of_doing/)
 - 📖 [The AI Hype](https://noumenalnotions.space/blogs/ai_hype/)
 - 📖 [Old School Socializing](https://noumenalnotions.space/blogs/old_school_socializing/) 
-- 📖 [Should You Use the Commandline](https://noumenalnotions.space/blogs/should_you_use_the_commandline/) 
-- 📖 [On the Necessity of Mediation](https://noumenalnotions.space/essays/on_the_necessity_of_mediation/) 
 
 ## 📟 Foray into the UNIX World 
 
